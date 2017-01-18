@@ -1,1 +1,33 @@
+ body {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 20px;
+    background-color: grey;
+}
 
+footer {
+    padding-top: 100px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 0px;
+}
+
+h1 {
+  font-family: Calibri;
+  font-size: 48
+}
+
+h2 {
+  padding-left: 20px;
+}
+
+.text {
+  font-family: Verdana;
+}
+
+#myheader {
+  color: red;
+  text-align: right;
+  
+}
